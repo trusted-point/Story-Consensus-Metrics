@@ -45,7 +45,7 @@ python3 main.py --help
 - The script will connect to cosmos websocket, process new produced blocks and save them to result/<height>/ws_signatures.json 
 - The script will start fetching consensus state from /consensus_state endpoint non-stop, process and save data to result/<height>/fetch_votes.json
 
-<img src="imgs/files.png" alt="--" width="25.9%">
+[<img src="imgs/files.png" alt="--" width="25.9%">]()
 
 
 ```bash
