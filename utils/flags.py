@@ -49,7 +49,13 @@ def parse_args() -> Namespace:
         action='store_true',
         help='To open real-time consensus dashoard. No data will be saved no matter what flags and args you set'
     )
-    parser.add_argument('--dashboard_disable_emojis', type=str_to_bool, help='To disable emojis in dashboard output (use in case emojis break the table)', required=False, default=False)
+    
+    parser.add_argument(
+        '--dashboard_disable_emojis',
+        action='store_true',
+        help='Disable emojis in dashboard output (use in case emojis break the table)'
+    )
+    
     parser.add_argument('--dashboard_refresh_per_second', type=int, help='Refresh rate of the table', required=False, default=1)
 
     args = parser.parse_args()
