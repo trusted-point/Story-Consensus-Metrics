@@ -1,0 +1,1127 @@
+{
+    "height": "813400",
+    "total_signed": 111,
+    "total_missed": 1,
+    "proposer": "EE2E612B56C2B733D6876615967FF31B4B056C75",
+    "signed_validators": {
+        "00BF0E5CC4423143B7B6DD8AAAA9F0FCE1D1E614": {
+            "moniker": "B-Harvest validator 1",
+            "hex": "00BF0E5CC4423143B7B6DD8AAAA9F0FCE1D1E614",
+            "valoper": "storyvaloper1qzlsuhxyggc58dakmk92420slnsares5c3mk6k",
+            "consensus_pubkey": "AhEo8dSDDGQN0i3w8uSslGCKm/fXbvR1oxxghUXkjCA1",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.984483049Z",
+                "signature": "t+Eao6xpWdJWsWqJcggK6uPFDJo4F2AbbfUygj0pMadHkAh1tJpqW782jXLXBE/WLGaRteVgcTz9SNYVmLk18w=="
+            }
+        },
+        "01A1AE5E8717EEF0E285C8DFA3325488C4FDCCB7": {
+            "moniker": "Enigma",
+            "hex": "01A1AE5E8717EEF0E285C8DFA3325488C4FDCCB7",
+            "valoper": "storyvaloper1qxs6uh58zlh0pc59er06xvj53rz0mn9hpfgv25",
+            "consensus_pubkey": "AiT6lULqD9NNCDrT5hH74sYajqCjs1yayAc8l+a5/CPz",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.075823446Z",
+                "signature": "pm5DjnsNeHBAxo18lzZYNuP7oYMv4qASaQU0HryMA8gosm9g9TW29IAFwhygsd1Vac8jjG8AfYvVIXDrJ20tdQ=="
+            }
+        },
+        "01AED0221BDE99F1A473A16BBDD7400667CA2B18": {
+            "moniker": "Endorphine Stake",
+            "hex": "01AED0221BDE99F1A473A16BBDD7400667CA2B18",
+            "valoper": "storyvaloper1qxhdqgsmm6vlrfrn594mm46qqenu52cckwa6cc",
+            "consensus_pubkey": "A7VPmGo/keOp/JKCvL3VgrqYOS3Ddz8b/du30DJ5hSrR",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.023800698Z",
+                "signature": "guSpZWpNygZjh734jVdnrnXhXlC5l6hEEhc+POnq/35rdoCUSVqJMR3DjDtucLstS3SuBH55Nstp6NrBsbLFiQ=="
+            }
+        },
+        "0B64F11EBFEF1FFF312A97EA087888432A70C7AC": {
+            "moniker": "Story validator 3",
+            "hex": "0B64F11EBFEF1FFF312A97EA087888432A70C7AC",
+            "valoper": "storyvaloper1pdj0z84lau0l7vf2jl4qs7yggv48p3avy82spr",
+            "consensus_pubkey": "A8L3SB/SpMx9H0v/gJUI1cA/Drd7x4T6UFF3HlpEFOjA",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.034097008Z",
+                "signature": "bSkW0rizLvlioH488koFZiHC9L5qrGG0OyPZBvBX87Y9jdbgshXuDvUa8zI1qRSScFdBXYxV6qMCFRXOy0ukzQ=="
+            }
+        },
+        "0C93D132F82C77487A443576D8EA6637FFBBE5B6": {
+            "moniker": "kaplan",
+            "hex": "0C93D132F82C77487A443576D8EA6637FFBBE5B6",
+            "valoper": "storyvaloper1pjfazvhc93m5s7jyx4md36nxxllmhedkt77wc7",
+            "consensus_pubkey": "A64psgraERP5FzCI959a9P8Rk0aliqY2vHye8p+pFLIO",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.030385109Z",
+                "signature": "bw5zAKfEjLc06NOnisNQq2vZ9Iv8ZwXlzxFFs9SJXYNr4CdQg891yF04VUdqoSfECgKECmnjJcS6HTS9vBUSWQ=="
+            }
+        },
+        "10ED2FE48C2E2A30D38AAE093D49E7EDC81C8634": {
+            "moniker": "OriginStake",
+            "hex": "10ED2FE48C2E2A30D38AAE093D49E7EDC81C8634",
+            "valoper": "storyvaloper1zrkjleyv9c4rp5u24cyn6j08ahypep35r4uk3k",
+            "consensus_pubkey": "AyiQyFwVj422udsweCmNY7tl8oSGfBgGJadtvuey6klP",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.940360978Z",
+                "signature": "Mi3xb2E9z+fU8PiJMMzV3QJVzt+iIEkanEDVU1pxtjNlDbrrhVq5ENg+Zv+nNb+rbg5wV/6t1Z2rj3b+oVhtGA=="
+            }
+        },
+        "13F8061CC372A4A8EFF80EC5D5AE32916E2C89A0": {
+            "moniker": "Story validator 4",
+            "hex": "13F8061CC372A4A8EFF80EC5D5AE32916E2C89A0",
+            "valoper": "storyvaloper1z0uqv8xrw2j23mlcpmzatt3jj9hzezdq08ar8t",
+            "consensus_pubkey": "A2NNYUwaEmuDVwJk6ULF/qFylpYjYQ3KzdTW4FFEWMYd",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.053064251Z",
+                "signature": "Q3I/usaxUEJIe3gZ8UErkPaqbx/sDRjNtRkxKkNmnvEyPxFffjHuhOoA9aG858w6D8oHZK3gQscrTj98dLZI7Q=="
+            }
+        },
+        "141D4C27F8148C3B5030A7E4A7B45CE96A19367E": {
+            "moniker": "LTHVC",
+            "hex": "141D4C27F8148C3B5030A7E4A7B45CE96A19367E",
+            "valoper": "storyvaloper1zsw5cflczjxrk5ps5lj20dzua94pjdn72guhyn",
+            "consensus_pubkey": "Amf881jXsCWoJSdLzBaoC+/unFu+cMkoDmJp0+qh0WhA",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.034142725Z",
+                "signature": "z6/nb4dClqdofissNrL+mO+QbZafFOhuPmX8u3csUaxACp4ijSfEAg4XKe0Tpud0jVDDQ6ySMm9BSaxjugOUDg=="
+            }
+        },
+        "18DDC4D235BD52B38E811FBB389F872C229F2252": {
+            "moniker": "P2P.ORG",
+            "hex": "18DDC4D235BD52B38E811FBB389F872C229F2252",
+            "valoper": "storyvaloper1rrwuf534h4ft8r5pr7an38u89s3f7gjj839rrh",
+            "consensus_pubkey": "A8czYKzQanLOsQWCUu3u3wOi1C8JkVV0vVdAChlbqLR4",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.591740587Z",
+                "signature": "zhXXwOXJX5CSYN49T1SmAp+uVySpeWFnNooXlMzbjTJPY+f9ybMKIEhW5C+cOKBkcQoAhBKx76DZl/B2Rmf2Uw=="
+            }
+        },
+        "1A6791F6B895CF14F6E3D29BF4895329135532B4": {
+            "moniker": "Imperator.co",
+            "hex": "1A6791F6B895CF14F6E3D29BF4895329135532B4",
+            "valoper": "storyvaloper1rfnera4cjh83fahr62dlfz2n9yf42v45nltkwy",
+            "consensus_pubkey": "A+w/ea3ByvBqEeJPD4pXDweZ8ltbNm8P5QAWNyeuB6VV",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.989955864Z",
+                "signature": "BwMeDZMTSyODEz0DuxuC9+JS6EpNHEmiZK2zed3qYggRoXuYYLjwe72n2zIAynL1jCn6lN2U+jh1NzLViXpolQ=="
+            }
+        },
+        "1E953FA3EC2E9A0B82F0C29A08AD246DFD60A820": {
+            "moniker": "DungDung",
+            "hex": "1E953FA3EC2E9A0B82F0C29A08AD246DFD60A820",
+            "valoper": "storyvaloper1r62nlglv96dqhqhsc2dq3tfydh7kp2pq8f7w07",
+            "consensus_pubkey": "A6DaxGHLFt3qLP+ImptLE/YCz9CuHeGx5CMJjdEIq8uC",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.998480612Z",
+                "signature": "Py+o7BuZULixpP69eGBIF02bEl6N7B/PCEa/oOB8HzM9+ogRWRTH5AEyX3/8+UOuq9KtJhUJ0vgIxvSwuuK1VQ=="
+            }
+        },
+        "26E1B07CD4AA231DC3BC298A7D91F1096ED8E9B2": {
+            "moniker": "TTT VN",
+            "hex": "26E1B07CD4AA231DC3BC298A7D91F1096ED8E9B2",
+            "valoper": "storyvaloper1ymsmqlx54g33msau9x98my03p9hd36djvkylqd",
+            "consensus_pubkey": "A6tEOEWMSdj22e8jI6c2L2VNxS60DIijPWZnK7NqGqI2",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.030249506Z",
+                "signature": "X/FhQb+aeMAEGNEofGSl0jG+884IZQ9TviT/4Rv92NtFSKCpLXfvV4ki42pF/SB3AZQwtxJokIdwTpawttu3oA=="
+            }
+        },
+        "294A807243DF617A8CF65534C6A03C1B637F3F5E": {
+            "moniker": "xxxigm",
+            "hex": "294A807243DF617A8CF65534C6A03C1B637F3F5E",
+            "valoper": "storyvaloper1999gqujrmash4r8k256vdgpurd3h7067dvxtun",
+            "consensus_pubkey": "Auss4fTxczSemFF9mszgz4uqSUYnTqKy0+R2p40FUeLh",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.004637192Z",
+                "signature": "PLRRQGj0BHt7nbUA0Dw7kE6aYyXSmICwvouJgdVy8t4SGq0p+AKC7ulJ5mtmkdAeF8p+qyd52zWcg3v43K7q2A=="
+            }
+        },
+        "2AF48894E712857730A6109B328A6F6B610C8DDF": {
+            "moniker": "Thitiporn",
+            "hex": "2AF48894E712857730A6109B328A6F6B610C8DDF",
+            "valoper": "storyvaloper19t6g3988z2zhwv9xzzdn9zn0ddsserwln3sjn8",
+            "consensus_pubkey": "A1eQLoAMC5kYzGSoKWSNUNnFC+zmhErCKGdHsio/NIeL",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.999607973Z",
+                "signature": "3HZnVzlcxXp5pj6UOeP2mfi+DQybN3w+tlfnTvo/jQA9Qnq7oPXK3gGi5zcApmKHBThwz4Q0eACgfyOPHz4d2A=="
+            }
+        },
+        "2C54F032EC211E802366965CBD5C61DF2745F71A": {
+            "moniker": "HashKey Cloud",
+            "hex": "2C54F032EC211E802366965CBD5C61DF2745F71A",
+            "valoper": "storyvaloper19320qvhvyy0gqgmxjewt6hrpmun5tac6sp2f76",
+            "consensus_pubkey": "A3nNLF98CQf2jCv/CflNiecTAEUH6iGq718rlJTARXNn",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.979188898Z",
+                "signature": "JkajS1fMT7ZRdeX5vdVa9FkAOOyiOn/QW6jeMFSbNFlUyA7+gA7suB2F1VOoLumHSXb8Lj8LDUH3vhBlefhnHw=="
+            }
+        },
+        "3171E30CE6AB78AC955AC204B5DFA03E08D9B30C": {
+            "moniker": "tarabukinivan",
+            "hex": "3171E30CE6AB78AC955AC204B5DFA03E08D9B30C",
+            "valoper": "storyvaloper1x9c7xr8x4du2e926cgztthaq8cydnvcvvypesa",
+            "consensus_pubkey": "AutdOmmkML256q7mKKMltSY+7wIxNEdSxyR/p2kECVun",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.976385106Z",
+                "signature": "KArYds60a1LfQ4Zb52GVjvWX3haiXgqtpIBlIRFCxBouoClG7dWi231ptCJ0k1mmGQbiFRDngWjEhb9B23/3cA=="
+            }
+        },
+        "31AAA64368C6245D5E697517CDAD2FD2B0F28B5E": {
+            "moniker": "StraiveVN",
+            "hex": "31AAA64368C6245D5E697517CDAD2FD2B0F28B5E",
+            "valoper": "storyvaloper1xx42vsmgccj96hnfw5tumtf062c09z678pg46l",
+            "consensus_pubkey": "AtbMs6Wknn4HYqJXimZi3W0suUgG4qGXxwJxKBuVH+F7",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.997541228Z",
+                "signature": "SsHdUocr6KuiiEe0mMWiQMSItetkGSk6yC7diNufy7k98rQqfuh5fsFDPBJhxxntjLQJ4OYNsSTI3LIJfot5mw=="
+            }
+        },
+        "3498E8BA5EB1981526B2A75E9E34BA1C88F2B426": {
+            "moniker": "ValidatorVN",
+            "hex": "3498E8BA5EB1981526B2A75E9E34BA1C88F2B426",
+            "valoper": "storyvaloper1xjvw3wj7kxvp2f4j5a0fud96rjy09dpxre6yq7",
+            "consensus_pubkey": "Ak0p+cJA0v4xbezzc+2yY+ugUdNxeWl1CcROVZAfGt0j",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.009027331Z",
+                "signature": "AtXwTzqnAgtjqI9+3TtZ6BY1WMpnI8GNXKSn++Zj5h4nnT9nqH1MR42TARbMHfppu4v1RUJdRjtnS1NRl6F+mg=="
+            }
+        },
+        "3573AFD1A84F43A25C2DCA2BD51DBD6BFE942225": {
+            "moniker": "StakingCabin",
+            "hex": "3573AFD1A84F43A25C2DCA2BD51DBD6BFE942225",
+            "valoper": "storyvaloper1x4e6l5dgfap6yhpdeg4a28dad0lfgg39nypxlt",
+            "consensus_pubkey": "A4svDLc84pxoCQ3y+9N3+rojTXx4CLumjFQ0EhT2PJX4",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.073524162Z",
+                "signature": "G2j71XU5/Cx2vfePY9H8QhW4/mjc2WXg9RegPhpBSFJ6s1fUNWVnKdW8rwpaZUD0UFHAEfyct/5Z2XyZfStXkA=="
+            }
+        },
+        "36363F789D3AB2090553B61948176DC72EA5ECDD": {
+            "moniker": "PiperX",
+            "hex": "36363F789D3AB2090553B61948176DC72EA5ECDD",
+            "valoper": "storyvaloper1xcmr77ya82eqjp2nkcv5s9mdcuh2tmxav9d9l7",
+            "consensus_pubkey": "Ao0eDkvfgWuQU+DxtVmbaqKoshX5aFo4A7329eNwFHwL",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.00834332Z",
+                "signature": "Muvy4YE79N7+slPFwtbG9NlVWFIzMVN4ZQKoKK2Bb6QzPYh4G7c0NxAQscQ0jZDaGzLl9uO7SaLmo+NX/6jRYw=="
+            }
+        },
+        "376236C59051E44DF82EC770952E38407F42BC52": {
+            "moniker": "Nodeinfra",
+            "hex": "376236C59051E44DF82EC770952E38407F42BC52",
+            "valoper": "storyvaloper1xa3rd3vs28jym7pwcacf2t3cgpl590zj6eyuhq",
+            "consensus_pubkey": "AokO54+4a9jZBfX44IamahNb8zRtTHgmwSc5hyRFGVqO",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.977807475Z",
+                "signature": "IPvIvCuUTGVWtNMBhEqTMXz5DmrKOFNjMreB55DPtg5Ei55MeELwuhOWbggRqKXOJHQ2XpAAX14IjC6VvzlzCg=="
+            }
+        },
+        "3AB427A26B14E5FC07B576794A718B0D37B6E953": {
+            "moniker": "catsmile",
+            "hex": "3AB427A26B14E5FC07B576794A718B0D37B6E953",
+            "valoper": "storyvaloper1826z0gntznjlcpa4weu55uvtp5mmd62ns05gyq",
+            "consensus_pubkey": "A0JwIYKWXk8pFInOlAHO7FzgddOlXv0T4V/a0SVjaqMr",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.020460995Z",
+                "signature": "MmOOQ3U3maPsaIIK7dITOAHq5qbEcRjnFu7FyFyYZOkN3euF1rUUAgR+GR4lBaDpJHH6S47IQc6H9LgXozg4RQ=="
+            }
+        },
+        "3C8E37A07BA92FEFA40C4AFA66F07CDA90D9DE9A": {
+            "moniker": "Stake&Relax \ud83e\udda5",
+            "hex": "3C8E37A07BA92FEFA40C4AFA66F07CDA90D9DE9A",
+            "valoper": "storyvaloper18j8r0grm4yh7lfqvftaxdurum2gdnh567yt3s0",
+            "consensus_pubkey": "A8G43h0itcECcq06afHweA1AvT0blE8UBZvT1p3JKbxh",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.972933739Z",
+                "signature": "D1zktPM4w2q5OJQ8N2X64rqvYoyX4mqd8NfsQx0dGRFc9Q4aNIMsy8lgK6ZPLJQRCFDaUJAiVtNcByo6Gf7Z4g=="
+            }
+        },
+        "3E19B3A463C5A4E4C2E06A341D4422710AD33203": {
+            "moniker": "Rawakinode",
+            "hex": "3E19B3A463C5A4E4C2E06A341D4422710AD33203",
+            "valoper": "storyvaloper18cvm8frrckjwfshqdg6p63pzwy9dxvsrlup8kk",
+            "consensus_pubkey": "A6Pef0q1h8I38ra8Q2tITbjQEJe4u6XtcYmidfnbUgDl",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.004831689Z",
+                "signature": "y+HkztNwnluKLtNvER4D0HZ9MKOJF6qg699cN83saoFTCpPsOcnDWkHW+h8CUwhIKbiqkSNAa+bzrKi4W4LVWQ=="
+            }
+        },
+        "3EFC18878454304004F18E8B3BFF7BC8ED166D10": {
+            "moniker": "empirex",
+            "hex": "3EFC18878454304004F18E8B3BFF7BC8ED166D10",
+            "valoper": "storyvaloper18m7p3puy2scyqp83369nhlmmerk3vmgs4rngfc",
+            "consensus_pubkey": "Au3f4Ix34LWdwFoNkGPvCzePjASYhvVUc4H3vfUnMHU1",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.989137728Z",
+                "signature": "q8PiRxYt1WEb8yi/ZLcvtwQKsKKdBX+g7sMRWpVcAq5BGfEvkq+PKUmLRbQbtGu64jmODOeQfKBux8DMB4n2zw=="
+            }
+        },
+        "3F8C1D7C5D79E8064947C0661A519DC9BED5FE68": {
+            "moniker": "encipher",
+            "hex": "3F8C1D7C5D79E8064947C0661A519DC9BED5FE68",
+            "valoper": "storyvaloper187xp6lza085qvj28cpnp55vaexldtlnggkplkx",
+            "consensus_pubkey": "A7Vx/mbQTWpqUaZaNWu6zTOogFBsPOcZo0IXl/+jpnvl",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.987853968Z",
+                "signature": "RTgSbAK+CYpgI01M2RLo75Kb1+UluTa4BcEHg+QeA7UZutUjWw+KkmLHpAfvCvNXs7BOaE3PIYGiMcn4g+/TrQ=="
+            }
+        },
+        "41FE4B78CB49BB7936CBED258E89D85045EBACFC": {
+            "moniker": "cryptomolot",
+            "hex": "41FE4B78CB49BB7936CBED258E89D85045EBACFC",
+            "valoper": "storyvaloper1g8lyk7xtfxahjdkta5jcazwc2pz7ht8ucj9wzl",
+            "consensus_pubkey": "A27/jZlg/oY3lMl8AFImrAdtKFDFExe8eEA2kkwEJ82i",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.029900715Z",
+                "signature": "SNRmsGZtu5EcjNmS2RnEjSvE4aBgY9al0S5Lggyzb4U2hSil69f1QU+glwMfGV9ypTFVW7zLkQpql19im9Yw1w=="
+            }
+        },
+        "44ED084AEA9B3B513C8C67B7947D54BEF6C41710": {
+            "moniker": "dhozil",
+            "hex": "44ED084AEA9B3B513C8C67B7947D54BEF6C41710",
+            "valoper": "storyvaloper1gnkssjh2nva4z0yvv7megl25hmmvg9csvggt0h",
+            "consensus_pubkey": "Ahfn6jC8qV2eRwbYMxrzE3GGzDqTis7M3aiY/EXdT5I9",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.035887741Z",
+                "signature": "g7IID66gkQ1LlrnCpJBVguGKZXQ8y643LumqR5r4TJQ1dsycUYJYUpQDnqlCuS3b4hHnRDYVybZBFu5gEK+S9g=="
+            }
+        },
+        "46CFBD9C56C1BA2D4E7CCFA516DEF1498D2BD262": {
+            "moniker": "KruGGoK-Stakesnodes",
+            "hex": "46CFBD9C56C1BA2D4E7CCFA516DEF1498D2BD262",
+            "valoper": "storyvaloper1gm8mm8zkcxaz6nnue7j3dhh3fxxjh5nzmfnena",
+            "consensus_pubkey": "AqgM3qjNcK+4tC262UjqEfj0NEtNaKa3qnT8guKl+oHe",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.044663351Z",
+                "signature": "uN1TwgECJJbr2RUnIy6pezFbh6EzwXNEssz+GI51++EoF4OK1Ys2cOmG3Ad21p87JaMqcUNefSuMtk8dCXF4tw=="
+            }
+        },
+        "4BE1F9186A7299935F6D22D12169AEA7983EF5AD": {
+            "moniker": "p10node",
+            "hex": "4BE1F9186A7299935F6D22D12169AEA7983EF5AD",
+            "valoper": "storyvaloper1f0sljxr2w2vexhmdytgjz6dw57vraadd973t00",
+            "consensus_pubkey": "A5BFGGRX+190HllT8lF9aOJ9SEuFhWTSv9Sbl9rVtQ6+",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.030938781Z",
+                "signature": "wcrIj91sxMptzi/Mye0r0xLJiOjufa/9vUPmKEyJNccGglvZEIOz0UbzGiTTLtHal59/rqmiQ0smuisZoDap6Q=="
+            }
+        },
+        "4C38D7BF303686B0FA7E0FB725191566BFE71FF7": {
+            "moniker": "DANGGIA",
+            "hex": "4C38D7BF303686B0FA7E0FB725191566BFE71FF7",
+            "valoper": "storyvaloper1fsud00esx6rtp7n7p7mj2xg4v6l7w8lhy8ztdk",
+            "consensus_pubkey": "AuBuVdKDiuta2NxZYAj71JCRKBiDJfRH5Z+a/FPt6iYP",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.204834177Z",
+                "signature": "ynONLFsCm9KkqblYRmcbqCzenpnZoRKMmGMxVKoutSV1SxNuGmP0q6lA2wE8xt6miSvW6sI/UH7+3D9M88F3zQ=="
+            }
+        },
+        "4D28196A800BC7C4A144A72BEB88A742D3A9082B": {
+            "moniker": "zStarkw",
+            "hex": "4D28196A800BC7C4A144A72BEB88A742D3A9082B",
+            "valoper": "storyvaloper1f55pj65qp0rufg2y5u47hz98gtf6jzpts8lpgy",
+            "consensus_pubkey": "AjQFUXR+6t+3i2UZl0m39hldloEyJelBk8rUm/wL8cqZ",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.006388655Z",
+                "signature": "UWNYDYHT0soFPcnIgFE/8J70F0PJCJH7Yj/ZGvXDHVFXoBxGNPSY3TtGfX7DwJwV6i+b5chQ+Jw3irte356kQQ=="
+            }
+        },
+        "4DDFA223F357E6DB326C8386BC158A91D5BA1D62": {
+            "moniker": "caliber",
+            "hex": "4DDFA223F357E6DB326C8386BC158A91D5BA1D62",
+            "valoper": "storyvaloper1fh06ygln2lndkvnvswrtc9v2j82m58tzceux6u",
+            "consensus_pubkey": "A+MDbxQ6ubpdGsmnenEVjNAiRAUXtL+vPTjF1M/SzLF4",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.056233015Z",
+                "signature": "/EpWcQfnrxcEb4uQHyqeL1la7yNW5lpWuPWQ6s0r71o8KEKcOscWJvGEImvVQTDgXJFQ6eJ8UzIazyfk+Lryog=="
+            }
+        },
+        "4F0CE29B92E39E7C3B5C900DAE05DA974E2C646E": {
+            "moniker": "valiDAO",
+            "hex": "4F0CE29B92E39E7C3B5C900DAE05DA974E2C646E",
+            "valoper": "storyvaloper1fuxw9xujuw08cw6ujqx6upw6ja8zcerwsdn224",
+            "consensus_pubkey": "A7zJqfaTI4VeWHpbTDFE8I9TOLJXzlA0PnBSf08NG0uB",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.001456265Z",
+                "signature": "kUySZtvSUxfzG51WSRyiuj302CMsDoL5XR42Jp7RABghcOY1bx4n0JYDCjuy7dV+rS5ymx1G9R0YdrqbTVoPdA=="
+            }
+        },
+        "530772CE871A92B0B64994BD2AA2E977B5031715": {
+            "moniker": "Pro-Nodes75",
+            "hex": "530772CE871A92B0B64994BD2AA2E977B5031715",
+            "valoper": "storyvaloper12vrh9n58r2ftpdjfjj7j4ghfw76sx9c4e45yxl",
+            "consensus_pubkey": "Au0EyWp+MRLNPP3BGVbMV5Bx/5vtFH78lZCYoBn7tkkd",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.993076532Z",
+                "signature": "a80qvK7bKJTzauBHAKVv3SM7ETZVw7PVpxxo1iFYYhgkp6SCwKfVJA5SPc5Q/m5Wor+mr48IPSWI3TOqNi2BPw=="
+            }
+        },
+        "53211F09F9CFB6534E07158109A0A09A681B3313": {
+            "moniker": "BlockHub",
+            "hex": "53211F09F9CFB6534E07158109A0A09A681B3313",
+            "valoper": "storyvaloper12vs37z0ee7m9xns8zkqsng9qnf5pkvcnqgdzqt",
+            "consensus_pubkey": "Ap/JsXoSgetrIzyJ3eyuLS5+QNfAILaveYzEHr5VZzIc",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.051606432Z",
+                "signature": "9QOsIfcKq8lB2Fi4ykPfZnWoFIXoE2andFA3ptM9FcY3sWjrSnCSoRaVO3C+hv1aC+KVZQP/E4Dfqzd+6rQgzA=="
+            }
+        },
+        "5415DC7360D13033BE44C056AB8805A98085E6EC": {
+            "moniker": "Blockdaemon validator 1",
+            "hex": "5415DC7360D13033BE44C056AB8805A98085E6EC",
+            "valoper": "storyvaloper12s2acumq6ycr80jycpt2hzq94xqgtehv2dz8h2",
+            "consensus_pubkey": "A/JG6XepsRi5ahJYHm6Bb1c4LX3l6WT4cfGiXJd/5tTt",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.990467814Z",
+                "signature": "AsDY3SuDtdX2SG2UlwW7dXXd09yCYNZPd17Z6zrWpag6FaZy2oFVkVxGL1Vm4ZtA/cSSb9sjewdLUcFXsBNIjQ=="
+            }
+        },
+        "5437392DBD336D0D0AF6335A88C9D44C8BF80F82": {
+            "moniker": "Nodes Navigator",
+            "hex": "5437392DBD336D0D0AF6335A88C9D44C8BF80F82",
+            "valoper": "storyvaloper12smnjtdaxdks6zhkxddg3jw5fj9lsruzauwjap",
+            "consensus_pubkey": "AtCegbhxuTs4eOYRDrSvh+vDLZNqEAY5nOf5n/FiKr7J",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.025564992Z",
+                "signature": "KMO/wWBX5qVTRqvqFh9ioiVvq0q0k0H6+zy1fIg4FD4fySxuTkj323taNl+miKgAWdUXQVXXsiHcG76YqIfl7w=="
+            }
+        },
+        "543DBC080F441822759487F32CA8A10E5A7D8518": {
+            "moniker": "B-Harvest validator 2",
+            "hex": "543DBC080F441822759487F32CA8A10E5A7D8518",
+            "valoper": "storyvaloper12s7mczq0gsvzyav5sleje29pped8mpgcprr9r2",
+            "consensus_pubkey": "A/Hrs9XwYiFBA/fNh4eYd7CYHFmiqZmufDZi6RkAI8Yv",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.974953093Z",
+                "signature": "P76sKEIgQoif5OwGY+zYeFG/+2H04TfF/IGcheqEpfxhx9P1igX/GifX8H117bvZCub0G5Yr7XqlZI0xNKvH3Q=="
+            }
+        },
+        "5674DBA8F707AED501CDD30A5571C3A72C3D8146": {
+            "moniker": "deNodes",
+            "hex": "5674DBA8F707AED501CDD30A5571C3A72C3D8146",
+            "valoper": "storyvaloper12e6dh28hq7hd2qwd6v992uwr5ukrmq2xeup4ep",
+            "consensus_pubkey": "AsL32V2PhHD/NUnaN2nfgNmK56mx3VJlYhFyQNCz20vL",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.008070666Z",
+                "signature": "vElndntdtpnrv194ZDWK3zO8e++uZUD2QNJsKHx1Iz1aIl6WFK0EDdPwwjrDlUS+Lb6re3rhYSlwKZegkQVf6Q=="
+            }
+        },
+        "5AF2B410FDA7F03F1C24AE9E1DEB1219E32C4F8D": {
+            "moniker": "kjnodes.com",
+            "hex": "5AF2B410FDA7F03F1C24AE9E1DEB1219E32C4F8D",
+            "valoper": "storyvaloper1ttetgy8a5lcr78py460pm6cjr83jcnud26jff9",
+            "consensus_pubkey": "AyOTApECQum7f9u/gOHWRudFjKTE4mXJ3Pv3mozydtj9",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.019088587Z",
+                "signature": "LZXS4GSwv/LgX5XNn7+hMgkpLLsPx2YcH0OZsoFiopFgQ0Lzd8PG2uyYoud/f91dguMH9NQkCEYyR6y+1MTDQw=="
+            }
+        },
+        "5CEE4C053C14375FFBFA5C4102524AFA32D3E707": {
+            "moniker": "ITRocket",
+            "hex": "5CEE4C053C14375FFBFA5C4102524AFA32D3E707",
+            "valoper": "storyvaloper1tnhycpfuzsm4l7l6t3qsy5j2lged8ec8eyft2k",
+            "consensus_pubkey": "A+r3VH/ejEu/uIi2HiUAdXxqJJaDrAtPyIWvtpNBwMMd",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.00516921Z",
+                "signature": "CBLcgFjYqXTM7C3tq5HJ1r26RybOBIM2cwsn2YJvATdO5WIOLqSyKuSM92zNAp3XMvmR/50wFnj4woDxxvTCbQ=="
+            }
+        },
+        "5DF3AEA0B498D087DF417466233535132B9AF1D0": {
+            "moniker": "Neuler",
+            "hex": "5DF3AEA0B498D087DF417466233535132B9AF1D0",
+            "valoper": "storyvaloper1the6ag95nrgg0h6pw3nzxdf4zv4e4uws0x3yln",
+            "consensus_pubkey": "AqQoRG4M0zfd87zP9KTrqJDoMlcI1lrYfnmGXPTQu1QI",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.994824252Z",
+                "signature": "ssWvw4sTx1eqo4J4JPhnFTTUgIDueUIGGZmSq8tViEYGGTNA7oYZIrIHyHI4Tu53jO0D81s1Slm/9jZevvdDrA=="
+            }
+        },
+        "5E06E5EFC55419D69669B1B9B2661DB18EF5AAFD": {
+            "moniker": "ZenithNode",
+            "hex": "5E06E5EFC55419D69669B1B9B2661DB18EF5AAFD",
+            "valoper": "storyvaloper1tcrwtm792svad9nfkxumyesakx80t2ha4txfns",
+            "consensus_pubkey": "Aukp1ehCZTXK2r2qU3SIR3Uu9yqYW9MXntFyawqyZnOZ",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.073194805Z",
+                "signature": "1uOAy9VUTTa2xdvarkyI9AmXRyfp7w28Kurr5hRobFVmxnUE4ehpX1LP4fPIqeQ6pubS70MTNR/iSJToRyozRQ=="
+            }
+        },
+        "61C24B9307986D6FBEAB0AFDC76F2C887E19B58E": {
+            "moniker": "unleash-protocol",
+            "hex": "61C24B9307986D6FBEAB0AFDC76F2C887E19B58E",
+            "valoper": "storyvaloper1v8pyhyc8npkkl04tpt7uwmev3plpndvwh04qq7",
+            "consensus_pubkey": "AvGtGJRftBcrti3f8DAQN6TMzqbZTZ7wfqX79WT5H7Na",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.062847362Z",
+                "signature": "eTfQ9T4JevmOInxQt2WF7+mlf+CC4TXFKFddxnbVf60AdqcNYY1p8+LfC6NEYvg9MNzTyiOcHuTREOnH/O2ysQ=="
+            }
+        },
+        "657798C50303F8481D2A83ECF6FFF0BFFF208AD4": {
+            "moniker": "SharkDao",
+            "hex": "657798C50303F8481D2A83ECF6FFF0BFFF208AD4",
+            "valoper": "storyvaloper1v4me33grq0uys8f2s0k0dllshlljpzk5yz348y",
+            "consensus_pubkey": "AlH1ZienvCdi4bzNTcYf4cM/gZyeCSECpYSmdNkI6hL7",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.09853972Z",
+                "signature": "f6JMqf2pnQORGPZFlNSJgxyNx1R7MUSUbD9/B4No3gMxOUqzJRDDRQ0jilBXRfRd56c2ctjH7sLZKFK+HcOfkw=="
+            }
+        },
+        "6799A2EF5768A246E5DD981C408846CD87007240": {
+            "moniker": "DTEAM",
+            "hex": "6799A2EF5768A246E5DD981C408846CD87007240",
+            "valoper": "storyvaloper1v7v69m6hdz3ydewanqwypzzxekrsqujqydu9n9",
+            "consensus_pubkey": "Ag1AVuW0qcETbR0g1jXarM5XANqB79vSeUgppqX6r8c6",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.207944386Z",
+                "signature": "nboB6WugAG5Jv7VE0jrZsh4B/wYbZUXVM3Q/y/8OwcMxbg+BTskQA6mBx5EebYh0hR+gGYjeraknqWqZizRREQ=="
+            }
+        },
+        "689D5C69FEC4C13365ED93074E9F1796DF729492": {
+            "moniker": "breskulpeak.com",
+            "hex": "689D5C69FEC4C13365ED93074E9F1796DF729492",
+            "valoper": "storyvaloper1dzw4c607cnqnxe0djvr5a8chjm0h99yjxl7tpy",
+            "consensus_pubkey": "AlgA5DU6IgHdyok+blEapDFWUlifA7zxHKK/aEBaVaHW",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.044035357Z",
+                "signature": "fGMWisKBCCZAEoubcRL0tqkvAziJoFTEURO3Gfi2J+UCBW/luG2brZKMoJTgQ2AAZqZk7mmLnX8oN7hjKhiPww=="
+            }
+        },
+        "6BD1E305E0E29A6F8030D530910AB7314EB9E214": {
+            "moniker": "DSRV",
+            "hex": "6BD1E305E0E29A6F8030D530910AB7314EB9E214",
+            "valoper": "storyvaloper1d0g7xp0qu2dxlqps65cfzz4hx98tncs57qa95t",
+            "consensus_pubkey": "A8GRPhLzzh9Oy3PW2LmpECeU20Sl2N4eZOnYk/WiN/x+",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.072183146Z",
+                "signature": "GQEqHfBGSoyk1xV7j6fkIiOW43ubiJDB+/NW+rcYh5UWxJLaQUrgTCmyWi4jQXZkMcXeWRASLz/BuEPnkEhKxA=="
+            }
+        },
+        "6BE946518BB88498FA741FD761ABFCB77C6E7C05": {
+            "moniker": "Stake-Take",
+            "hex": "6BE946518BB88498FA741FD761ABFCB77C6E7C05",
+            "valoper": "storyvaloper1d055v5vthzzf37n5rltkr2luka7xulq95w25a4",
+            "consensus_pubkey": "Amtr6Ok/Pfb5JGZvQjEUXjYK3jAUGku+/d2uMC0odzhz",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.021375084Z",
+                "signature": "BswYrQO+BCW2NvcjRK7XLDrXhQziR40OrJajVb7ZuBRCW3qjNCBOxj2UaAJ0fWrxbwki+TCOP+hA66bBS/KRzw=="
+            }
+        },
+        "6BEDA08B1AB05897238071B233FBB94D27218268": {
+            "moniker": "UTSA",
+            "hex": "6BEDA08B1AB05897238071B233FBB94D27218268",
+            "valoper": "storyvaloper1d0k6pzc6kpvfwguqwxer87aef5njrqngdgasu0",
+            "consensus_pubkey": "A61NPOK5R9kWocS9azVJTWJclRHtcu3qZJCydzVXuTAB",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.00530621Z",
+                "signature": "ZlDEV5w15ukThAT17Zo8EQC2hnvLLMbFV9Py+V9tvFsRXv0OkHrSIhYbY8zWn8vHJlSoKQ1YHW9CKhDmOBHvxg=="
+            }
+        },
+        "6D6C93EF94C9EA6B033009B07F0A8D81C895697E": {
+            "moniker": "P-OPS Team",
+            "hex": "6D6C93EF94C9EA6B033009B07F0A8D81C895697E",
+            "valoper": "storyvaloper1d4kf8mu5e84xkqespxc87z5ds8yf26t7p3apqd",
+            "consensus_pubkey": "A8d7cCaqXewCy7Ef8xajkrxd8JnR4ShdAN/5YPFFDYLN",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.011752583Z",
+                "signature": "xUvwIfzJ476G2YGIm3HjQPZ1iOYmnCZ98tpKyZI7nP4/71ClAfEDaqdRxUiRJCwFgtUffHpV0+aVGskso9hPFA=="
+            }
+        },
+        "72F3AFA87A35E3FD1B903F10FE4746275F8FAF1F": {
+            "moniker": "StingRay",
+            "hex": "72F3AFA87A35E3FD1B903F10FE4746275F8FAF1F",
+            "valoper": "storyvaloper1wte6l2r6xh3l6xus8ug0u36xya0cltclyuqy75",
+            "consensus_pubkey": "Aoi8Sp+ojI1WIKwsP511dT3HCPKcbNzw7RLagyduOS+f",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.011798129Z",
+                "signature": "JBa0YFuGhwyYo4Cdz8FcmvrL7yHQs+AU+C18EndZvC8aNHZgxrX+OV1aF5+DHdwZYWtTWF5GHlk+zt+s6j8SCg=="
+            }
+        },
+        "7314EE12CF79349860D32629BF48A91D58174AAB": {
+            "moniker": "aerox88",
+            "hex": "7314EE12CF79349860D32629BF48A91D58174AAB",
+            "valoper": "storyvaloper1wv2wuyk00y6fscxnyc5m7j9fr4vpwj4thq3kt9",
+            "consensus_pubkey": "A7c75Tkykb0tSZnDrDKKPIIvEPmr/szHt4TX4gT6iIT7",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.990675982Z",
+                "signature": "5CaGExajVTUz7Lg96kymenSOUzYaMA7jyv/M/8PPsNYJb3tzg2DeEz6MoeK1N4zEHkmlBkFjSddmwAAUh/J70g=="
+            }
+        },
+        "73B6E60EA0C1D4FD62FC4E5025FFDA79CAE04A57": {
+            "moniker": "Figment Validator 1",
+            "hex": "73B6E60EA0C1D4FD62FC4E5025FFDA79CAE04A57",
+            "valoper": "storyvaloper1wwmwvr4qc8206chufegztl76089wqjjh42vvrl",
+            "consensus_pubkey": "AivInXaqYqT6ZeN/D1cSvhhyQ5FXDCxTw/5uGC8RvkWn",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.030777608Z",
+                "signature": "OlpPkHTlMPEWpVdavVs4nLGW2NkOJ6NvFEAbP89ekY5xp+jCh9RGSlz81OrAFdFKE+4i00ribTwNYh4lezeBvw=="
+            }
+        },
+        "74BFA68B891675E1F8613517D50BD63672CED6EA": {
+            "moniker": "Tinh-LTH",
+            "hex": "74BFA68B891675E1F8613517D50BD63672CED6EA",
+            "valoper": "storyvaloper1wjl6dzufze67r7rpx5ta2z7kxeeva4h2sawxa8",
+            "consensus_pubkey": "A8keqEoCPsBfh17fbnZCj1w4/G5HE6d4vSasX71J4wH7",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.081983589Z",
+                "signature": "VdoBb/JVkXEfV5vBcD0mOE5EktRdyIqsJFVmrZD7U68b5bbpsp9pxVFHZmdcp0P3+ZpEttX+mgiw/BM6b11SLg=="
+            }
+        },
+        "75CE5D1DEA0934ED689BC98C06B7897B6B20544E": {
+            "moniker": "Chicharito",
+            "hex": "75CE5D1DEA0934ED689BC98C06B7897B6B20544E",
+            "valoper": "storyvaloper1wh896802py6w66ymexxqdduf0d4jq4zw04yqzr",
+            "consensus_pubkey": "ApHMCHdfTNLvtP/pDvrew2KIaDnKul/ydqY+Tre2iXao",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.003957828Z",
+                "signature": "CAbBgxKk/Jxr27tPIPK7Gf2ML7WnqOhO29W1AzgfyxcDCeRVvIkhq03YJlU76+Wv/k+IJokNCyLdIF71AokKEw=="
+            }
+        },
+        "77CFE8DCCDB5EF2EFD67D091B206E917D6AB7E25": {
+            "moniker": "Story validator 2",
+            "hex": "77CFE8DCCDB5EF2EFD67D091B206E917D6AB7E25",
+            "valoper": "storyvaloper1wl873hxdkhhjalt86zgmyphfzlt2kl39kf4x2a",
+            "consensus_pubkey": "A3/xIU9a9LZSvGw1LssSlnkc91SkJrSafEomMST3SX6Y",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.999168958Z",
+                "signature": "aTGQ4Sf71kOrgsilirPl1KLuXUbbjZA3Op6E942h4F0FhWGydccvatXyols/JW4xHrCk7FUsI2B87p0HZlhYXQ=="
+            }
+        },
+        "784B580EED372605331336975509DF3C75463FB8": {
+            "moniker": "AcryptoverseStory",
+            "hex": "784B580EED372605331336975509DF3C75463FB8",
+            "valoper": "storyvaloper10p94srhdxunq2vcnx6t42zwl8365v0ac9jrvl7",
+            "consensus_pubkey": "AnIZWwuVROTxCf69fvZLIld2lXW5xnhKlz2Z5ftg3aWM",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.28551758Z",
+                "signature": "hFx1QadiKoR7RIKLMRs/AaI5mWyDxuy1VeUVN3fh1CR7ul8hlFDDkRvZgkCM7d4UPxqONiZzwANTGPYVcVHSLw=="
+            }
+        },
+        "7FFE85D1F6CCADEC99906587471203F300D1EDBB": {
+            "moniker": "Aldebaranode",
+            "hex": "7FFE85D1F6CCADEC99906587471203F300D1EDBB",
+            "valoper": "storyvaloper10llgt50kejk7exvsvkr5wysr7vqdrmdmwfd37e",
+            "consensus_pubkey": "A5Amvm0DHd51FZ4748TTeL2hdfj6DLTgHHs1og65fsIb",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.983576737Z",
+                "signature": "VdIgj7ZQxpMFstFho3lezPmkz6mZmNFyKon/1yElQoYPU9PWMbYDZgHarW0g8IvwyVkxo3smZvkdh+xmgYOsAQ=="
+            }
+        },
+        "8051C924A1949613807F673986B7583273E343C7": {
+            "moniker": "Zstake",
+            "hex": "8051C924A1949613807F673986B7583273E343C7",
+            "valoper": "storyvaloper1spgujf9pjjtp8qrlvuucdd6cxfe7xs7858k7z5",
+            "consensus_pubkey": "AmoHMeJGQweBeuk+YTpa0jc/2zbzF3YVS4kAvr/eG6Qs",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.156935569Z",
+                "signature": "TC/KyUaSD9wTiwB5U0Ne3whZ1G5bZREqUq0XY52hQ45jQXH9lxEwz07ELPI9YrBzRVkzLYOjBsYVfET5JF4JpA=="
+            }
+        },
+        "805FC8975E6605C9FD5481AE74AEDEB8F263833E": {
+            "moniker": "metilnodes",
+            "hex": "805FC8975E6605C9FD5481AE74AEDEB8F263833E",
+            "valoper": "storyvaloper1sp0u3967vczunl25sxh8ftk7hrex8qe74czqks",
+            "consensus_pubkey": "AqPdt5hbNPpvTQt5L0qf1NNY8tzuXIqLiIJoBCwotQTK",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.029271315Z",
+                "signature": "HiStoS9iHBjv5TJms3byee1U1yyc/yC19R1yW01A/21nUNekwJlMH+P22QCQ4dBR4czj/jXbUWHMP3pK9RVVGQ=="
+            }
+        },
+        "8510D3ADA57C95844CB72BB2A106737DB30CC021": {
+            "moniker": "KenZ|DragonVN",
+            "hex": "8510D3ADA57C95844CB72BB2A106737DB30CC021",
+            "valoper": "storyvaloper1s5gd8td90j2cgn9h9we2zpnn0kesespp7nfpfv",
+            "consensus_pubkey": "A+Eyy2emS0E12Kna2jr/TLDD+34Lz1JpdBmLSjO0y5QQ",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.993088667Z",
+                "signature": "uuSa66kpTpOhIq/Wpdf9hGAW3sSrsfXQZtujw46p5vRdyjArDUsXP4iJCXkKnlg91GRJxA332JA2Y3ufEJlyQA=="
+            }
+        },
+        "8524569DF05A3CF0B50A97665CF69F9945868FBD": {
+            "moniker": "Cosmic Validator",
+            "hex": "8524569DF05A3CF0B50A97665CF69F9945868FBD",
+            "valoper": "storyvaloper1s5j9d80stg70pdg2jan9ea5ln9zcdraarqjark",
+            "consensus_pubkey": "A5TJ4HQ5wRnUDIdSM5FX6ExHEHITuRaTZhWFjbxsSymh",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.955648456Z",
+                "signature": "2i8EezH2yZL6XuFoDQb4fT4WAvDwRaqnI6gacLiPlBRI5LB++kHnqkcPQ2g4Ar1pvBX/1wSXIIdcBcTgOPhkqA=="
+            }
+        },
+        "8AF7AEBEB918E241761945ABD401004A16B7D4E4": {
+            "moniker": "Validator247",
+            "hex": "8AF7AEBEB918E241761945ABD401004A16B7D4E4",
+            "valoper": "storyvaloper13tm6a04err3yzasegk4agqgqfgtt048yhs8hs6",
+            "consensus_pubkey": "Av2NdFwxb54tP6f7ZvYxhzaUluueXT+n5u9nDRbyBhyq",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.978660705Z",
+                "signature": "KyAgER7a2UlS6acL4r8QzTPLaGIHGn8/5Bp5h9hJ5lci/byVVBU1pzNXK9tUJukw62S2RR/be1sNdHf+st5itQ=="
+            }
+        },
+        "8D95501FB17ADD3E0AC1858B82D0D787B0E6A716": {
+            "moniker": "BlockHunters",
+            "hex": "8D95501FB17ADD3E0AC1858B82D0D787B0E6A716",
+            "valoper": "storyvaloper13k24q8a30twnuzkpsk9c95xhs7cwdfckx9d9e7",
+            "consensus_pubkey": "Aw/xG+lKiK40ZNCnr9HoJ5GyhdD4DSQRlf09wp+AWXen",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.004461922Z",
+                "signature": "cl4HKaB32PISraXo2r6381x1yOltqHrY2jHlUaoa/D8p1iJrA4so16qS78dU3s9hQw3/Q0SaHo0g57C4q0KLGQ=="
+            }
+        },
+        "8D99767933278A16CED0E014A2CDB8793F3FC5D8": {
+            "moniker": "Mekong-Labs",
+            "hex": "8D99767933278A16CED0E014A2CDB8793F3FC5D8",
+            "valoper": "storyvaloper13kvhv7fny79pdnksuq229ndc0ylnl3wcc697da",
+            "consensus_pubkey": "A6Y/CqWu0UDacBgz1VzNxXqnPnexkCxA/druVEzryiK1",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.997760385Z",
+                "signature": "9XAhjCMeIwG6btaQb0X6mtgktF2cZfWR2sIs/dQTESoriplBI5kkYFtomuyqizW6gxrZVjq/1f0bU+mQPiVWSQ=="
+            }
+        },
+        "8DC443AAEFC20A6961E6BE0FC51DB92AA6B6CBFD": {
+            "moniker": "Staking4All",
+            "hex": "8DC443AAEFC20A6961E6BE0FC51DB92AA6B6CBFD",
+            "valoper": "storyvaloper13hzy82h0cg9xjc0xhc8u28de92ntdjlae3te6u",
+            "consensus_pubkey": "AlbuYE8AXlYxNOUk2C91b0sbFzCX1sDw5YauF1wVoh7U",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.963225874Z",
+                "signature": "Hjgrld6tXvN0f6A8kkpvqgV5NLXC/aNQZjmiQjQ2llwv1EE2UAFVlxb31+i8UmkDBWzPFsZpiK0IWh+7CaUdIA=="
+            }
+        },
+        "8E365859852035029E3D30EB7212B4EBB1D32DCB": {
+            "moniker": "polkachu.com",
+            "hex": "8E365859852035029E3D30EB7212B4EBB1D32DCB",
+            "valoper": "storyvaloper13cm9skv9yq6s983axr4hyy45awcaxtwtqsj8tu",
+            "consensus_pubkey": "Amozj20jgnoTIoeALvlh8FuEsLa6QPtqvYXg3O9c4rhq",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.985101938Z",
+                "signature": "TWTmqXjPjbgCHLiTKjrvMbZK1YLHNflGgBlFc/+/NVg/0rbEQqhd8BafyDFqxX763bUAbfC4cTFMcBepBvCvSQ=="
+            }
+        },
+        "8E7FAF7C8E5003DC0782BF4B9F06230C90797CEB": {
+            "moniker": "Mandragora",
+            "hex": "8E7FAF7C8E5003DC0782BF4B9F06230C90797CEB",
+            "valoper": "storyvaloper13el67lyw2qpacpuzha9e7p3rpjg8jl8tmecq2q",
+            "consensus_pubkey": "A3csY9o7NaiGdbbgkVS2l2sSx4VpEMM6ja2gcjFIIfRD",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.986084164Z",
+                "signature": "zeFPKmpGp69WnQm2Ra8sk+E7lfq6XXwKTv+/D9dZhMpow0xGWKprO8CAIEr8U9dYmIr7FKP0XUtCV3pMeRIipQ=="
+            }
+        },
+        "9952B2ECD403FBBFBB265A56E0E6E6CBCEA84950": {
+            "moniker": "NATxNAT",
+            "hex": "9952B2ECD403FBBFBB265A56E0E6E6CBCEA84950",
+            "valoper": "storyvaloper1n9ft9mx5q0amlwextftwpehxe082sj2sj8tzrk",
+            "consensus_pubkey": "Atr9UyO5lTTtZ6lPEIoKyr1n2wyfjqjdkcx3pnewJ2y9",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.071613187Z",
+                "signature": "uMH4261wfGjr9bRM2prDF/C55ksZqTRUN71h0p87i1tbPUW5F9N9fodddVF8jxbJG9EgWOp7Jo2FfPzFW4Lfkg=="
+            }
+        },
+        "A6E907942B67083DEF7FA23D95191EB8F2E0C4D4": {
+            "moniker": "OranG3cluB",
+            "hex": "A6E907942B67083DEF7FA23D95191EB8F2E0C4D4",
+            "valoper": "storyvaloper15m5s09ptvuyrmmml5g7e2xg7hrewp3x5cdufu4",
+            "consensus_pubkey": "AwIJiVhHERk+Lqgk7EDjTutmMr2CIMS9m0G0EBTCQEWU",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.048064252Z",
+                "signature": "yhEjDt3qfIr2nOZE/qNKQhdjA84StOw57Gbs2NGbtppnj4adiBGKjnFe9/mVeGNiT243GlEzXAx1A/3VVfSB+A=="
+            }
+        },
+        "A76A90DFCF7B06F5BFA34C07FCE497AF7E579FD9": {
+            "moniker": "Coha05",
+            "hex": "A76A90DFCF7B06F5BFA34C07FCE497AF7E579FD9",
+            "valoper": "storyvaloper15a4fph700vr0t0arfsrleeyh4al9087ee3evct",
+            "consensus_pubkey": "AudHrGoydgdTjG+wZBc+aIH7nW7qW9vSuxodGFbN9Qn2",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.977944499Z",
+                "signature": "Je6v8Uon0MMEK1+ci9WSAIzFSsKGg7TihuLIdCJoVexRwTrr2+2TI2OH1g+BTJveIIIVnLFzyZBQkRpf+ebLoA=="
+            }
+        },
+        "AB26994D1CA9144723AFEF26C5F41C0CD005AB03": {
+            "moniker": "Nodes.Guru",
+            "hex": "AB26994D1CA9144723AFEF26C5F41C0CD005AB03",
+            "valoper": "storyvaloper14vnfjngu4y2ywga0aunvtaqupngqt2cr9qwz22",
+            "consensus_pubkey": "AtbO0/OwYOx9Hrz+8E+lVjo6H8iFF7XqWT8DtJwDwvUR",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.008146526Z",
+                "signature": "pLWSdGAhM7NRQhOE8GqCRQqPdn7icaQg2n4w1LJ92aFdIQbmbAZwhtocMfwjYV/GkNhI0RpIRJt+9yhLGGrAmw=="
+            }
+        },
+        "ACDF680EF7B284D19038E7DB5173BDD5655C7338": {
+            "moniker": "Brightlystake",
+            "hex": "ACDF680EF7B284D19038E7DB5173BDD5655C7338",
+            "valoper": "storyvaloper14n0ksrhhk2zdrypculd4zuaa64j4cueczq5xhm",
+            "consensus_pubkey": "Axn/JsxsKo3RaehyOHjnJhLtMOQBMup26mW55NWHmjOi",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.974297071Z",
+                "signature": "wxzpo2+Sgo8T8QvecQX7sejf4o04QeinuCucK9garaE4DZTeROKIvPAAVh1sKpmFo4GXXfscKZjdx1xuE3POBA=="
+            }
+        },
+        "B095847069BA328CE8409D8EC7702E10312191ED": {
+            "moniker": "Story validator 1",
+            "hex": "B095847069BA328CE8409D8EC7702E10312191ED",
+            "valoper": "storyvaloper1kz2cgurfhgege6zqnk8vwupwzqcjry0du23g4z",
+            "consensus_pubkey": "Au1YqTGauof2D+COh7wxZY3aa/15MWhnkKL/gDhG1OWc",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.022186337Z",
+                "signature": "hIefpv2XGjv+LUF6CAIpxXehe+LeDoliOdm+4VIemXN7ltpDJUr7B0i8rUjeupBIu4OHLJPaUiQRPAbxZBZ0XQ=="
+            }
+        },
+        "B12C6AE31E8E1C39839050D3FE7FE976BDB1B9AD": {
+            "moniker": "HUNG",
+            "hex": "B12C6AE31E8E1C39839050D3FE7FE976BDB1B9AD",
+            "valoper": "storyvaloper1kykx4cc73cwrnqus2rflullfw67mrwdde73xp5",
+            "consensus_pubkey": "As7gliCsM/0lkKiKwRr4YbJUHDu71fzAS+GfMRAIL5cF",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.089164937Z",
+                "signature": "ijY5uiVFRLeBeYVg4WLFHMm3Atpj0KYPALONPeNkiRFBxUhOzTh42jCCFqnhX4da4IBtkxdCJwuY1903VVUP5g=="
+            }
+        },
+        "B1600AB90B0579420976526F6E7488989E03B800": {
+            "moniker": "limstake",
+            "hex": "B1600AB90B0579420976526F6E7488989E03B800",
+            "valoper": "storyvaloper1k9sq4wgtq4u5yztk2fhkuaygnz0q8wqqkjc88j",
+            "consensus_pubkey": "AjupvZgmymnmCWR1oIfsOkgUqLg68OwiE62PjCyhVb4u",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.247388143Z",
+                "signature": "l/aJCIgn7/AZgMJMObNU2Ht5keRQmO6py6lB40HgdCkVglnkr686CCiVCqZvkJO8hp9+xXkmrEkw9IHv3wgN6w=="
+            }
+        },
+        "B392537A670EC2C67843B9A490033816A9D3811C": {
+            "moniker": "Stakecito",
+            "hex": "B392537A670EC2C67843B9A490033816A9D3811C",
+            "valoper": "storyvaloper1kwf9x7n8pmpvv7zrhxjfqqecz65a8qgunxaz0q",
+            "consensus_pubkey": "A+r1ZssW1a+gGcPqTqe7vjVC2T5tMRsjefgzl6YYHAhQ",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.994499116Z",
+                "signature": "8Ox9/bKLFUno95XGuBxdvcbtdAWAMcSp4D/oATne+2can+78M4rShW3EeAXKURBWP3kdIrTs74i3AxP+YiaJ/g=="
+            }
+        },
+        "BAED8E3FAD9FD20457EA2AD53A631AFAA6477F3A": {
+            "moniker": "CroutonDigital",
+            "hex": "BAED8E3FAD9FD20457EA2AD53A631AFAA6477F3A",
+            "valoper": "storyvaloper1htkcu0adnlfqg4l29t2n5cc6l2nywle6qyqdr9",
+            "consensus_pubkey": "A1jfmH/TqR7X+HWiy6/38W8mW/W3ljGxBusCSt1+uSZ4",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.007007739Z",
+                "signature": "ZDOKIM3erSSesB37HtI0xzApHbPKHPDMBKGE+X6+T4kfl2pQLiTCs9aUqnaAEzsC+JCSQAIpvmKdlkjPs3NTKw=="
+            }
+        },
+        "BB3AC7017393A9B8B1761237A559D04CAD7703D7": {
+            "moniker": "Synergy Nodes",
+            "hex": "BB3AC7017393A9B8B1761237A559D04CAD7703D7",
+            "valoper": "storyvaloper1hvavwqtnjw5m3vtkzgm62kwsfjkhwq7h8m4azm",
+            "consensus_pubkey": "ArirzgOUmjzCbffVNrAmGdtUIuV33yBMB5CbhYDnc7dO",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.049333634Z",
+                "signature": "JoBqV3yJ6teH6Zuq/XmTbYd+OzEEs2vvFkf6VXg/MsMS6XGlSALET38oevVkjpdBqckb+mDvFAtkP2nIlIe5PQ=="
+            }
+        },
+        "BE26DDB8DD7B76D65846F9BEC699AF8C67496377": {
+            "moniker": "republic-crypto",
+            "hex": "BE26DDB8DD7B76D65846F9BEC699AF8C67496377",
+            "valoper": "storyvaloper1hcndmwxa0dmdvkzxlxlvdxd033n5jcmh6afkjh",
+            "consensus_pubkey": "A7x9Oxc6qX0gdmUeRDvcRHo047gosr3heqGaGKTCYzBB",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.995452322Z",
+                "signature": "/yTqVYUTvflmI5/vtlw1bnn2j5PozJd99MVpY1cK50FGMmJ9bOg00yf+jTUZW6JgV0BDhHmNQ1RUrUafsn8Rkg=="
+            }
+        },
+        "C320D0BD7012A89BE5ADF624C9AC15546BEEC16C": {
+            "moniker": "Grand Valley",
+            "hex": "C320D0BD7012A89BE5ADF624C9AC15546BEEC16C",
+            "valoper": "storyvaloper1cvsdp0tsz25fhedd7cjvntq42347astvar06v8",
+            "consensus_pubkey": "A2p1z6hM9IXltKaET6ny/wP0EPfIwBSPTkyeU135yroi",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.0224369Z",
+                "signature": "bk3yDg1TJ5hX2DxUENk2cz3thKNmI2UdJyVnumFVgDMVLGTVQRJHHYrmzRr88PnU2O/ZDLLSNGMqncCFupbt1w=="
+            }
+        },
+        "C4EBD41B8CA0BE5D2DD1F9CAE298E51B35B9601D": {
+            "moniker": "JosephTran",
+            "hex": "C4EBD41B8CA0BE5D2DD1F9CAE298E51B35B9601D",
+            "valoper": "storyvaloper1cn4agxuv5zl96tw3l89w9x89rv6mjcqadcx9y3",
+            "consensus_pubkey": "A9k2hhP1ihByqEPWR1F8Ui3F8+d9uN/6DzP5X7rzXtVa",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.974286558Z",
+                "signature": "hOsMnRsvNj1tQ2u+rzknJrTHtUYi5gtFAlY7tKuosfQTgEpASDh5oe5V9YL1OBGE/CJjG54m7Xe52lYfRx20zA=="
+            }
+        },
+        "C50E81D2261A7565B9633B1DB11889128C2177A2": {
+            "moniker": "Forest Staking",
+            "hex": "C50E81D2261A7565B9633B1DB11889128C2177A2",
+            "valoper": "storyvaloper1c58gr53xrf6ktwtr8vwmzxyfz2xzzaaz8rrw68",
+            "consensus_pubkey": "Ajxrg/ucN6LJhoFBcv3Rxt5uHQgLeHG6K/A+G9FPoI7t",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.961464936Z",
+                "signature": "SssN2cdN2Nij0hsbCBF52MexH+wD2nd0z9hEyb+RAv4ohhwBWO1EMvMjFmSDUu16N9I7L0ia/Jsl74kdrsiJMQ=="
+            }
+        },
+        "C5A5E3029CB56AB05CB0590E0C2CB8146F9DDDE2": {
+            "moniker": "coinsspor",
+            "hex": "C5A5E3029CB56AB05CB0590E0C2CB8146F9DDDE2",
+            "valoper": "storyvaloper1ckj7xq5uk44tqh9sty8qct9cz3hemh0zgyktar",
+            "consensus_pubkey": "At5heZUqv3+3eaRnBfA+Q16YdybGv2jCmxDNEautA0Jc",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.036729753Z",
+                "signature": "UOi4rN+UzEOp+qW9Lo3hfM5dUw9yxiWM0+K4WLGwcP4SC4FjvGwHZ5E0CBIZ6GrEL23zfGRtNjMCwFXyCuH4kg=="
+            }
+        },
+        "C723CEE95E2FEC572AC6FF3E21A96B208266D2E4": {
+            "moniker": "F5 Nodes",
+            "hex": "C723CEE95E2FEC572AC6FF3E21A96B208266D2E4",
+            "valoper": "storyvaloper1cu3ua6279lk9w2kxlulzr2ttyzpxd5hytyfc4y",
+            "consensus_pubkey": "AqGWEy/Cjof0JnCpketL4Ku8L1Gxd21IYI9okYUf7KVy",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.989235351Z",
+                "signature": "AMaK7MIDakbZyl/gMPxIBYikxi7Lm/dOjNOSiORnmtMut4alWq5WyGnT77sLKm9F34iQa9RfTW+sSKXiclKvzA=="
+            }
+        },
+        "C7AA16C74D6D87EB5A3258CCE282F8B699544D58": {
+            "moniker": "owl-validator",
+            "hex": "C7AA16C74D6D87EB5A3258CCE282F8B699544D58",
+            "valoper": "storyvaloper1c74pd36ddkr7kk3jtrxw9qhck6v4gn2cdtg3m4",
+            "consensus_pubkey": "A0cA6pMW/NWtid3Noy1iSq8RncH66YWbOQ6aXoTvoZAq",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.026500467Z",
+                "signature": "cmc5SUwzbN1dUaKlKGCbwXMPI31D6CtLm0qSPwwxXbcQrYd1qsy+Nf7KTmOwr2ZM3EGuDdZGdG2tjIte/FH5cw=="
+            }
+        },
+        "CA1192FBD465C814410D2EC00571D105100E2FCF": {
+            "moniker": "STAKEME",
+            "hex": "CA1192FBD465C814410D2EC00571D105100E2FCF",
+            "valoper": "storyvaloper1egge9775vhypgsgd9mqq2uw3q5gqut708hj57y",
+            "consensus_pubkey": "Ar82cbB1qnDV7V/o9sf9qpBxi3GUkXF7U22qaj0lkJrg",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.088916024Z",
+                "signature": "i8Y6nAfyqZQ7hyoxdsTuHtv7kFvpj61+2t8QlklHlBolzDcBjj3q7XXsOfO/WP8YSRmZTX5gKH92L9UGWT9j8w=="
+            }
+        },
+        "CCE5DA7834E5ED349279FDACCC6AB31F7378DC95": {
+            "moniker": "elessar",
+            "hex": "CCE5DA7834E5ED349279FDACCC6AB31F7378DC95",
+            "valoper": "storyvaloper1enja57p5uhknfynelkkvc64nraeh3hy4p9rxz9",
+            "consensus_pubkey": "AvXVmD9HwgBPETpNOz5hbB9vi5JFjWrceCbGwgOesON4",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.013860395Z",
+                "signature": "XZgk0WFAz8TOKFx0ETPce0+L14vjvh4yrrOgDvmJ8FouVhLdFa82NkcF4FEcn38NzzsXDyoOeFEt6Ng/ZsykNg=="
+            }
+        },
+        "CE2002888FBF00C95B8C065CB167B16AD98A4AB7": {
+            "moniker": "openbitlab",
+            "hex": "CE2002888FBF00C95B8C065CB167B16AD98A4AB7",
+            "valoper": "storyvaloper1ecsq9zy0huqvjkuvqewtzea3dtvc5j4hzqju9a",
+            "consensus_pubkey": "AmqAvmN3ELODhUSv0LUSJF01sLFwEzotjfm5rUuTFdnP",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.097119089Z",
+                "signature": "0u/LV8KxrBi45IZFfgHCSbRftyIhBEYSV++DseMXkzkzJq3MOuUFypqylV6agBSt/VMyHakWORqt0pCaYfm2xw=="
+            }
+        },
+        "D030DAB13421D195A618574FDDB9C7B75C01E1C1": {
+            "moniker": "Perseus",
+            "hex": "D030DAB13421D195A618574FDDB9C7B75C01E1C1",
+            "valoper": "storyvaloper16qcd4vf5y8getfsc2a8amww8kawqrcwpmwrpua",
+            "consensus_pubkey": "AvS6QA2WYcJaRUaog9lA3WrdWjUS59Gj9SLIOFUVdk10",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.967274851Z",
+                "signature": "ZUnCtDN3TLxVtiwaCbQX7EiuqlopKxjtf8+AKg5m9tA9vRxN3iqExaPeCeFi9s6oRizlM6se84U/hxADJeZsrw=="
+            }
+        },
+        "D191538875DEB930B80DD60A0572555C663FFC01": {
+            "moniker": "mAthzid",
+            "hex": "D191538875DEB930B80DD60A0572555C663FFC01",
+            "valoper": "storyvaloper16xg48zr4m6unpwqd6c9q2uj4t3nrllqp8tw02u",
+            "consensus_pubkey": "AqUY3Vw3UcD9tp0W0TbEkspDnsnyMh4APM99rGLApgkR",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.007177319Z",
+                "signature": "t2CkS+ExIItoFEhcl+1Q1KIwTSxn3aARZHQeOZZjUyJv0ug/TAlTNGYklD35r3Ba+dFAkFYNxkLd4SGTP8qQDA=="
+            }
+        },
+        "D4DD075F264D991D269EE6F475B692F6D7049655": {
+            "moniker": "KysenPool",
+            "hex": "D4DD075F264D991D269EE6F475B692F6D7049655",
+            "valoper": "storyvaloper16nwswhexfkv36f57um68td5j7mtsf9j4wfj4dn",
+            "consensus_pubkey": "AlKA+BtYU4e/VXobWVgWj/3kqdZ680LjF5DHl2E9BOI9",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.004927104Z",
+                "signature": "mMO4PpiP9rzlRGN7oM4zVlrQ0Iq799UoX4wi3pppNCg0iaFp24ghIr/oPyyNMy0XW4BY8pH2PkmgBKt7wiD/ew=="
+            }
+        },
+        "D5EB4F84E46CD74CD22FF4CE38B6C234D9C9EE95": {
+            "moniker": "HashBamboo",
+            "hex": "D5EB4F84E46CD74CD22FF4CE38B6C234D9C9EE95",
+            "valoper": "storyvaloper16h45lp8ydnt5e5307n8r3dkzxnvunm548qxpgu",
+            "consensus_pubkey": "A+wHX4t4LRhGjFml+7Z/x7J3wS/S27gab+1r0bvOa1vI",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.230921401Z",
+                "signature": "XvbuQioLUDjM1bXeLddtuZygZ0QppWsrzLeZKo7JR0YMGOdBRPKHOM4frhWftgFqez0Icqt7qdVo74mFqrMU9A=="
+            }
+        },
+        "D64D76E15710D63EFE76A6F38EBCF369EC9CF1EF": {
+            "moniker": "decentrio",
+            "hex": "D64D76E15710D63EFE76A6F38EBCF369EC9CF1EF",
+            "valoper": "storyvaloper16exhdc2hzrtralnk5meca08nd8kfeu00kvxgs3",
+            "consensus_pubkey": "AsCoAsXEm5qMBWddknz4QEo7yXnDqVeHLN2aKb309PGJ",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.993929603Z",
+                "signature": "lrdBxrK2uTQ6jXzBp9sB2IEFNOb3FLcI6WpCQdBrEON/6mzWya08oj9DnXbJ6E4yfkyDW8uNtObXXmx4buUZvw=="
+            }
+        },
+        "D74E3460C551FC07CF90E792377A7120EC5BFC33": {
+            "moniker": "Obiwan_Story",
+            "hex": "D74E3460C551FC07CF90E792377A7120EC5BFC33",
+            "valoper": "storyvaloper16a8rgcx9287q0nusu7frw7n3yrk9hlpn0re0ht",
+            "consensus_pubkey": "A9syxrP7QJG5XD4tetFmfGgayU4bcsVz45NHqyaSsG4r",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.983469741Z",
+                "signature": "sNeRM+tZNwdI88s4umdTOI1/FcF8srfnUyrEOu2EZk9ALn/p7q/y3ICGeuqgbeAxvg+DJLvEsxLzz1w4IsYsLQ=="
+            }
+        },
+        "D8D00974564EDB28E54B9553DC3AD0BFC4026E37": {
+            "moniker": "{HungStory}",
+            "hex": "D8D00974564EDB28E54B9553DC3AD0BFC4026E37",
+            "valoper": "storyvaloper1mrgqjazkfmdj3e2tj4facwkshlzqym3h4g9tan",
+            "consensus_pubkey": "A7tIUnCNFEFRWX6MTqOT410hBiY+dbE6o2CW6gzdQGgP",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.099998153Z",
+                "signature": "LQmACY7b6FPAytWR7k+TwhhoVCASMgMYbNkig4Y8NQR+E9ebQuEZAJkJQaXjpN0EDVIVnwI9I5ZKCsMp4oxRRw=="
+            }
+        },
+        "DA28E90A365F68D480D82C6EC2DE487E2FDA47E5": {
+            "moniker": "TrustedPoint",
+            "hex": "DA28E90A365F68D480D82C6EC2DE487E2FDA47E5",
+            "valoper": "storyvaloper1mg5wjz3kta5dfqxc93hv9hjg0cha53l97ne3z4",
+            "consensus_pubkey": "Ahu+oDf6oMpuWSlKiHRGM3d2bzvqgjrgW613agkfiuhK",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.981024184Z",
+                "signature": "9lE+bRW41Ragm/+/4/epVQ33C+aKFQYUqSFse/WyF28GqUpb/Dh/XQPxPsSxGpopsvO988ynrpq+3Be+46PKJQ=="
+            }
+        },
+        "DFFCEB5B3CE0565813F978A02641673EA2AD88E8": {
+            "moniker": "DeSpread",
+            "hex": "DFFCEB5B3CE0565813F978A02641673EA2AD88E8",
+            "valoper": "storyvaloper1ml7wkkeuupt9syle0zszvst88632mz8g3aahpy",
+            "consensus_pubkey": "A9UF9dau7lpId4HzBfqnz2WTg4HEZ5DjZAuxbR0p1TJd",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.970612059Z",
+                "signature": "vZdQ69cc24BofaHtZASwTHo6PmWMtwDR+V8IZQzEoMw1+3HnvuSvgEx5KHqzWPff4ls7uONv6D1afQVy4au56g=="
+            }
+        },
+        "E048BF3465D05494FF4ACE1C40E51F032DEA175D": {
+            "moniker": "CoinHunters",
+            "hex": "E048BF3465D05494FF4ACE1C40E51F032DEA175D",
+            "valoper": "storyvaloper1upyt7dr96p2ffl62ecwypeglqvk7596a3xrmvn",
+            "consensus_pubkey": "AlUvszrNpCmb4OdWT0YeBKHNBYY/QpeHPJwJHEMajKLS",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.038045798Z",
+                "signature": "BITNLsg34jnxZf3DN6tQCVgb2eYLFXqyQiElwfKCHVt78Nwlt7Wag2uYUSdzSkDVGCV1ma/LLNWukBZcbIhn4Q=="
+            }
+        },
+        "E299FB7D0D4CA7DBABFFF21170AB0C7565E37BB0": {
+            "moniker": "j4rannode",
+            "hex": "E299FB7D0D4CA7DBABFFF21170AB0C7565E37BB0",
+            "valoper": "storyvaloper1u2vlklgdfjnah2ll7gghp2cvw4j7x7asynxxdn",
+            "consensus_pubkey": "AtyEfgVUpMmI4IdtwlvdhPjY+xahQpoN7+ib0467fgyH",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.995592416Z",
+                "signature": "GfTSF1viZGAQOSCkJ8LZvEqMPhRwOFzfdpazVq3vUh1JkBiMyjqs1tRF2pYXPvMqnhuNT9ylkJ6BCF0Eb6vgcA=="
+            }
+        },
+        "E45E62E826A2E208DBF59E9AF6D21FA285675180": {
+            "moniker": "Kiln",
+            "hex": "E45E62E826A2E208DBF59E9AF6D21FA285675180",
+            "valoper": "storyvaloper1u30x96px5t3q3kl4n6d0d5sl52zkw5vqylp9fz",
+            "consensus_pubkey": "Aw2bgOf7Q5fw9VcZa/VjBYKXzFbW4+DQmGNwTsL6Ivxi",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.968858486Z",
+                "signature": "7FuXZxRpDETJCqhK9Sku2CxKpxB2SV0t/xgr8W1AzP0QlcYbyEZ/z9aVtlNmvfIQ2f+gJ5STZN8nJRdkQ0EDCg=="
+            }
+        },
+        "EE19425A7F4FBAB725F1D99AAFE70ECFF685E178": {
+            "moniker": "Vitwit",
+            "hex": "EE19425A7F4FBAB725F1D99AAFE70ECFF685E178",
+            "valoper": "storyvaloper1acv5yknlf7atwf03mxd2lecwelmgtctc8j6vcl",
+            "consensus_pubkey": "A51C+1UAXdBDqV9tDTdNajBy2e+auqbWsiDre9vL9w1e",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.635016274Z",
+                "signature": "X0mpBctSH33//5XQAxv4qhmfuAIOBxvYpymmcJxGP1Z0ZuF8QiWC8gISiGcblHMnDBiMFfkzJ1GmGap4jhofwg=="
+            }
+        },
+        "EE2E612B56C2B733D6876615967FF31B4B056C75": {
+            "moniker": "STAVR",
+            "hex": "EE2E612B56C2B733D6876615967FF31B4B056C75",
+            "valoper": "storyvaloper1achxz26kc2mn8458vc2evllnrd9s2mr42vyajk",
+            "consensus_pubkey": "AvP8jhL+CuHqmAPCU/FokHE6hYKBScVDBnm49RP6jSQb",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.052648434Z",
+                "signature": "M8D1TS3N4nSZQvGU6ydxBhwdVmyEYA3ErZOhKJPawOsnqVg6pAraadV/aTr2zlLPVZ9XoZa0nNAEDfeopkQ4sQ=="
+            }
+        },
+        "F6A86CA8F65FC36331D09B4D5EC1C650DC65AAAC": {
+            "moniker": "luciolaKami",
+            "hex": "F6A86CA8F65FC36331D09B4D5EC1C650DC65AAAC",
+            "valoper": "storyvaloper1765xe28ktlpkxvwsndx4aswx2rwxt24v7lx4u7",
+            "consensus_pubkey": "A2fgHeuiw8xwZpc8bDYnMloH/I1+dyjbvC1gN664jZfp",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.994732231Z",
+                "signature": "4hjHCe711Trz5Xis69V/uJjUgfLHMj53opkM4ggwtcQHgr5SHUp/kQK0u+IeslJLIySREOJLYRt7zq1T8u7vvQ=="
+            }
+        },
+        "FA326EEF5D3BE142495E7ADAEF6478A560530BAB": {
+            "moniker": "PAnh",
+            "hex": "FA326EEF5D3BE142495E7ADAEF6478A560530BAB",
+            "valoper": "storyvaloper1lgexam6a80s5yj270tdw7erc54s9xzat7yaama",
+            "consensus_pubkey": "AteZBdpWUzZURywNzej4XiX7G6OJ995VnX1Cr1LR39og",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.156378304Z",
+                "signature": "g6w/hQUfrWElphvLGHQUrG1XMDc9sa/HEYZ792Zdp2NpJH4iGEN0LYTkTKpJDkjP/z0F5KvJk2qAz+/VHawR7g=="
+            }
+        },
+        "FC574AFE0159C2E30933C20EBA27E6A93A3B4BF2": {
+            "moniker": "NodeStake",
+            "hex": "FC574AFE0159C2E30933C20EBA27E6A93A3B4BF2",
+            "valoper": "storyvaloper1l3t54lspt8pwxzfncg8t5flx4yarkjlj0tpc53",
+            "consensus_pubkey": "Al0LnLqMnu9x36Ivc3Z8vluGcl9Bx0tiVL2EeShArCaQ",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.07761062Z",
+                "signature": "Gazl5elg8rhCUYpp5sFUWLLn6+jXrGB/t/YaG7xt0Mp3zgtEOcwVM8TNH2CDS/jKnFPdujJIGWHRtNvGxjbs5A=="
+            }
+        },
+        "FE9014037CC367E2138C69321BFAB844149F5B5A": {
+            "moniker": "Blockdaemon validator 2",
+            "hex": "FE9014037CC367E2138C69321BFAB844149F5B5A",
+            "valoper": "storyvaloper1l6gpgqmucdn7yyuvdyeph74cgs2f7k66u60hq6",
+            "consensus_pubkey": "A3H7KJ3EfCWXSwFOBtAEJeU3jvd8CNuhV91m7T+vMm80",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:20.965704572Z",
+                "signature": "iz48cQ/Bk5O5rl9IfgyXtym+nY9f8pQX5cwrnDnXd9pDEN0m5o4XOaJzC+55LSTsWHbqAsIq28Tx44GLppFA0g=="
+            }
+        },
+        "FEB6526BEFD5761F5D825C58044533E734C33FF6": {
+            "moniker": "piki-node",
+            "hex": "FEB6526BEFD5761F5D825C58044533E734C33FF6",
+            "valoper": "storyvaloper1l6m9y6l064mp7hvzt3vqg3fnuu6vx0lkn50udf",
+            "consensus_pubkey": "Ant0XLkJAQoCHasTdg9qjnKIvjeonl5rE/crvAMoHqYx",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.072066862Z",
+                "signature": "4yL08aWqnP/UGVElm+zawE7oRMOKR35OuMCdwHpYaOIfa7v5xmNCnve4W5YjjGAKcH5LbMBcj/ioe0y/7zNatA=="
+            }
+        },
+        "FF9C03BED6F4BD93D77FF6C4DB8CCDD68DC4EFC1": {
+            "moniker": "Krews",
+            "hex": "FF9C03BED6F4BD93D77FF6C4DB8CCDD68DC4EFC1",
+            "valoper": "storyvaloper1l7wq80kk7j7e84ml7mzdhrxd66xufm7pvunwj6",
+            "consensus_pubkey": "AyUw6RI1MP3c8dW2pkZekjUa+6+qwMZCCXDoHKnjxGJ+",
+            "signature": {
+                "timestamp": "2024-11-25T09:56:21.008692253Z",
+                "signature": "LobaaDM2Ke3HTtH1a3lSNPH8GyALEJeXIOTEvNRxzl995RjXFOnhrJoDV+j1SGj7CMtEatnlp8bR+qAUgJ/RZg=="
+            }
+        }
+    },
+    "missed_validators": {
+        "E3F6046FBEBC5EF6CBCA21087F70EC18B2CF5EAD": {
+            "moniker": "InfraSingularity",
+            "hex": "E3F6046FBEBC5EF6CBCA21087F70EC18B2CF5EAD",
+            "valoper": "storyvaloper1u0mqgma7h300dj72yyy87u8vrzev7h4dymxfyg",
+            "consensus_pubkey": "Aoyb6HlpBmwlgQopkZQB84Kpyv8fLHGSiIapK/DsOjSe",
+            "signature": null
+        }
+    }
+}
