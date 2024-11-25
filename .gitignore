@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyc
+.env
+.vscode/
+.idea/
+*.log
+*.exe
+*.dll
+*.so
+venv/
+env/
+logs/
+.vscode/
+.idea/
