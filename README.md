@@ -41,9 +41,16 @@ python3 main.py --help
                         Refresh rate of the table (default: 1)
 ```
 ### Usage
-- The script will connect to cosmos websocket, process consensus events and save them to result/<height>/ws_votes.json 
-- The script will connect to cosmos websocket, process new produced blocks and save them to result/<height>/ws_signatures.json 
-- The script will start fetching consensus state from /consensus_state endpoint non-stop, process and save data to result/<height>/fetch_votes.json
+- The script will connect to cosmos websocket, process newly produced blocks, consensus events and save them to result/[height]/ws_votes.json 
+```py
+WS_EVENTS = [
+    {"jsonrpc": "2.0", "method": "subscribe", "params": ["tm.event='Vote'"], "id": 1}, # Prevote + Precommit for each round in the block 
+    {"jsonrpc": "2.0", "method": "subscribe", "params": ["tm.event='NewRoundStep'"], "id": 2},
+    {"jsonrpc": "2.0", "method": "subscribe", "params": ["tm.event='ValidatorSetUpdates'"], "id": 3},
+    {"jsonrpc": "2.0", "method": "subscribe", "params": ["tm.event='NewBlock'"], "id": 4}
+]
+```
+- The script will start fetching consensus state from /consensus_state endpoint non-stop, process and save data to result/[height]/fetch_votes.json
 
 [<img src="imgs/files.PNG" alt="--" width="25.9%">]()
 
