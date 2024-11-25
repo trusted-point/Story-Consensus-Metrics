@@ -45,7 +45,7 @@ python3 main.py --help
 - The script will connect to cosmos websocket, process new produced blocks and save them to result/<height>/ws_signatures.json 
 - The script will start fetching consensus state from /consensus_state endpoint non-stop, process and save data to result/<height>/fetch_votes.json
 
-[<img src="imgs/files.png" alt="--" width="25.9%">]()
+[<img src="imgs/files.PNG" alt="--" width="25.9%">]()
 
 
 ```bash
@@ -72,4 +72,4 @@ Open real-time consensus monitroing dashoard. In dashboard mode no metrics will 
 python3 main.py --rpc https://story-testnet-cosmos-rpc.crouton.digital --ws wss://story-testnet-cosmos-ws.crouton.digital/websocket --dashboard_only
 ```
 - If your table is broken try to disable emojis with `--dashboard_disable_emojis`
-[<img src='imgs/dashboard.png' alt='--' width= '99.9%'>]()
+[<img src='imgs/dashboard.PNG' alt='--' width= '99.9%'>]()
