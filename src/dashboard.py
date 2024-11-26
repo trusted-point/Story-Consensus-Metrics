@@ -35,17 +35,16 @@ class ConsensusDashboard:
 
         self.layout.split_column(
             Layout(name="header", ratio=1),
-            Layout(name="footer", ratio=3)
+            Layout(name="main", ratio=5),
+            Layout(name="footer", ratio=1),
+
         )
 
         self.layout["header"].split_row(
-            Layout(name="logs"),
             Layout(name="votes_commits_bar"),
             Layout(name="network_info")
 
         )
-
-        self.layout["footer"].update(self.generate_table())
 
     async def fetch_chain_data(self):
         async with AioHttpCalls() as session:
@@ -68,6 +67,10 @@ class ConsensusDashboard:
         try:
             async with AioHttpCalls() as session:
                 data = await session.get_validators(status='BOND_STATUS_BONDED')
+                if not data:
+                    self.log_lines.append("Failed to fetch validators. Will retry")
+                    return
+            
                 if data:
                     sorted_vals = sorted(data, key=lambda x: int(x['tokens']), reverse=True)
                     validators = []
@@ -106,10 +109,11 @@ class ConsensusDashboard:
             height_round_step = data['round_state']['height/round/step'].split('/')
             _height = int(height_round_step[0])
             _round = int(height_round_step[1])
+            _step = int(height_round_step[2])
 
             self.current_round_consensus_state['round'] = _round
             self.current_round_consensus_state['height'] = _height
-            self.current_round_consensus_state['step'] = int(height_round_step[2])
+            self.current_round_consensus_state['step'] = _step
 
             consensus = data['round_state']['height_vote_set'][_round]
 
@@ -157,7 +161,7 @@ class ConsensusDashboard:
         return f"[bold yellow]{label}[/bold yellow] {bar} {value:.1f}%"
 
     def generate_table(self) -> Table:
-        table = Table(show_lines=False, expand=False, box=None)
+        table = Table(show_lines=False, expand=True, box=None)
         table.add_column("", justify="left")
         table.add_column("", justify="left")
         table.add_column("", justify="left")
@@ -208,7 +212,7 @@ class ConsensusDashboard:
                         self._last_consensus_update = asyncio.get_event_loop().time()
 
                     if upd_vals or upd_cons:
-                        self.layout["footer"].update(self.generate_table())
+                        self.layout["main"].update(self.generate_table())
 
                         prevote_bar = self.create_bar("[ Prevotes ]", self.current_round_consensus_state['prevote_array'])
                         precommit_bar = self.create_bar("[Precommits]", self.current_round_consensus_state['precommits_array'])
@@ -229,12 +233,12 @@ class ConsensusDashboard:
                         if self.ugrade_plan:
                             network_info += f"[bold cyan]Upgrade plan:[/bold cyan] {self.ugrade_plan.get('name', 'N/A')} | Height: {self.ugrade_plan.get('height')}"
 
-                        network_info_panel = Panel(network_info, title="Network Info", border_style="cyan")
+                        network_info_panel = Panel(network_info, title="Network Info", border_style="cyan", expand=True)
                         self.layout["header"]["network_info"].update(network_info_panel)
 
-                        log_renderable = "\n".join(self.log_lines)
-                        log_panel = Panel(log_renderable, title="Logs", border_style="blue")
-                        self.layout["header"]["logs"].update(log_panel)
+                    log_renderable = "\n".join(self.log_lines)
+                    log_panel = Panel(log_renderable, title="Logs", border_style="blue", expand=True)
+                    self.layout["footer"].update(log_panel)
 
                     await asyncio.sleep(1 / self.refresh_per_second)
 
