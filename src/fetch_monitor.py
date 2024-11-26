@@ -88,17 +88,21 @@ class FetchConsensusMonitoring:
                 height_round_step = consensus['round_state']['height/round/step'].split('/')
                 _height = int(height_round_step[0])
                 _round = int(height_round_step[1])
+                _step = int(height_round_step[2])
 
-                if not self.no_save and (_height == self.target_height or self.save_all or _height in self.check_blocks_list):
+                if not self.no_save and (str(_height) == self.target_height or self.save_all or str(_height) in self.check_blocks_list):
                     file_path = f"result/{_height}/fetch_votes.json"
+                    logger.debug(f"Saving fetched /consensus_state {_height}/{_round}/{_step} [{file_path}]")
                     os.makedirs(f"result/{_height}", exist_ok=True)
                     with open(file_path, 'w') as f:
                         json.dump(self.all_rounds_consensus_state, f, indent=4)
-                    logger.debug(f"Saved fetched {file_path}")
+                    logger.debug(f"Saved fetched /consensus_state {_height}/{_round}/{_step} [{file_path}]")
+                else:
+                    logger.debug(f"Skiping {_height}/{_round} for /consensus_state | Target: {self.target_height}")
 
                 self.current_round_consensus_state['round'] = _round
                 self.current_round_consensus_state['height'] = _height
-                self.current_round_consensus_state['step'] = int(height_round_step[2])
+                self.current_round_consensus_state['step'] = _step
 
                 consensus = consensus['round_state']['height_vote_set'][_round]
 

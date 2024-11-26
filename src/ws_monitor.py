@@ -66,7 +66,7 @@ class WsConsensusMonitoring:
             traceback.print_exc()
 
     async def process_new_vote_entry(self, event_data):
-        _height = event_data['Vote']['height']
+        _height = str(event_data['Vote']['height'])
         _round = str(event_data['Vote']['round'])
         _timestamp = event_data['Vote']['timestamp']
         _hash = event_data['Vote']['block_id']['hash']
@@ -93,9 +93,9 @@ class WsConsensusMonitoring:
             return
 
         if not self.no_save and (_height == self.target_height or self.save_all or _height in self.check_blocks_list):
-            logger.debug(f"{f'Saving {_vote_type}'.ljust(18)}{_validator_info['moniker'][:11].ljust(12)}| Round: {_round}   | Height: {_height}")
-
             file_path = f"result/{_height}/ws_votes.json"
+
+            logger.debug(f"{f'Saving {_vote_type}'.ljust(18)}{_validator_info['moniker'][:11].ljust(12)}| Round: {_round}   | Height: {_height} [{file_path}]")
 
             if os.path.exists(file_path):
                 with open(file_path, 'r') as f:
@@ -133,8 +133,8 @@ class WsConsensusMonitoring:
             os.makedirs(f"result/{_height}", exist_ok=True)
             with open(file_path, 'w') as f:
                 json.dump(state, f, indent=4)
-
-            logger.debug(f"{f'Saved {_vote_type}'.ljust(18)}{_validator_info['moniker'][:11].ljust(12)}| Round: {_round}   | Height: {_height}")
+            logger.debug(f"{f'Saved {_vote_type}'.ljust(18)}{_validator_info['moniker'][:11].ljust(12)}| Round: {_round}   | Height: {_height} [{file_path}]")
+        
         else:
             logger.debug(f"Skipping {f'{_vote_type}'.ljust(18)}{_validator_info['moniker'][:11].ljust(12)}| Round: {_round}   | Height: {str(_height).ljust(7)} | Target: {self.target_height}")
 
