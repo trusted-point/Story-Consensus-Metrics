@@ -16,7 +16,6 @@ WS_EVENTS = [
     {"jsonrpc": "2.0", "method": "subscribe", "params": ["tm.event='ValidatorSetUpdates'"], "id": 3},
     {"jsonrpc": "2.0", "method": "subscribe", "params": ["tm.event='NewBlock'"], "id": 4}
 ]
-# WS_EVENTS = []
 class App:
     def __init__(self, rpc, ws, ws_events, target_height, post_target_check_blocks_num, save_all, no_save):
         self.rpc = rpc
